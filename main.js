@@ -30,8 +30,10 @@ app.use((req, res, next)=>{
     res.locals.message = req.session.message;
     delete req.session.message;
     next();
-})
+});
 
+//mid for image
+app.use(express.static('uploads'));
 //templete engine
 app.set('view engine', 'ejs');
 
