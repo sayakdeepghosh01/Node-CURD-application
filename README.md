@@ -1,6 +1,6 @@
 # Get Photos Application
 
-![Interface](URL)
+![Interface](one.png)
 
 📸 Welcome to the Get Photos application! This Node.js application
 allows users to store and manage their data, including user name, photo,
@@ -84,3 +84,4 @@ don't hesitate to [create an
 issue](https://github.com/your-username/get-photos-app/issues).
 
 Happy capturing moments with Get Photos! 📷
+![Sample](two.png)
