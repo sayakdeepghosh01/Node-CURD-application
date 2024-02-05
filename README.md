@@ -1,5 +1,7 @@
 # Get Photos Application
 
+![Interface](URL)
+
 📸 Welcome to the Get Photos application! This Node.js application
 allows users to store and manage their data, including user name, photo,
 phone number, and email. With features like editing and deleting, it
