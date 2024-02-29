@@ -88,3 +88,6 @@ issue](https://github.com/your-username/get-photos-app/issues).
 
 Happy capturing moments with Get Photos! 📷
 ![Sample](two.png)
+
+## Twitter
+https://twitter.com/SayakGh07615659/status/1763223651938427154?t=9hcbiIbriDzgTDnHX5Xx2Q&s=19
