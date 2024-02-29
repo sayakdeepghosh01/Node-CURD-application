@@ -83,8 +83,8 @@ application! If you encounter any issues or have suggestions, please
 don't hesitate to [create an
 issue](https://github.com/your-username/get-photos-app/issues).
 
-## Watch here 
-![video](https://youtu.be/LEgnIWDpV4k)
+## Youtube
+https://youtu.be/LEgnIWDpV4k
 
 Happy capturing moments with Get Photos! 📷
 ![Sample](two.png)
