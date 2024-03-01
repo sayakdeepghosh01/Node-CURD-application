@@ -1,8 +1,8 @@
-# Get Photos Application
+# Get Contacts Application
 
-![Interface](URL)
+![Interface](one.png)
 
-📸 Welcome to the Get Photos application! This Node.js application
+📸 Welcome to the Get Contacts application! This Node.js application
 allows users to store and manage their data, including user name, photo,
 phone number, and email. With features like editing and deleting, it
 provides a seamless experience for managing your information.
@@ -70,7 +70,7 @@ The application will be accessible at `http://localhost:3000`.
 
 ## Functionality
 
-🔧 The Get Photos application provides the following functionality:
+🔧 The Get Contacts application provides the following functionality:
 
 -   **Add Data:** Users can store their data by providing a user name,
     photo, phone number, and email.
@@ -83,4 +83,11 @@ application! If you encounter any issues or have suggestions, please
 don't hesitate to [create an
 issue](https://github.com/your-username/get-photos-app/issues).
 
+## Youtube
+https://youtu.be/LEgnIWDpV4k
+
 Happy capturing moments with Get Photos! 📷
+![Sample](two.png)
+
+## Twitter
+https://twitter.com/SayakGh07615659/status/1763223651938427154?t=9hcbiIbriDzgTDnHX5Xx2Q&s=19
